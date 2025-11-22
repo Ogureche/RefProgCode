@@ -100,3 +100,4 @@ C:\Users\user\Desktop\Уник\Рефакторинг программного �
 C:\Users\user\Desktop\Уник\Рефакторинг программного кода\RefactoringSolution\Tests\obj\Debug\net9.0\Tests.pdb
 C:\Users\user\Desktop\Уник\Рефакторинг программного кода\RefactoringSolution\Tests\obj\Debug\net9.0\Tests.genruntimeconfig.cache
 C:\Users\user\Desktop\Уник\Рефакторинг программного кода\RefactoringSolution\Tests\obj\Debug\net9.0\ref\Tests.dll
+C:\Users\user\Desktop\Уник\Рефакторинг программного кода\RefactoringSolution\Tests\obj\Debug\net9.0\Tests.sourcelink.json
