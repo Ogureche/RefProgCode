@@ -12,3 +12,4 @@ C:\Users\user\Desktop\Уник\Рефакторинг программного �
 C:\Users\user\Desktop\Уник\Рефакторинг программного кода\RefactoringSolution\RPKApp3\obj\Debug\net9.0\RPKApp3.pdb
 C:\Users\user\Desktop\Уник\Рефакторинг программного кода\RefactoringSolution\RPKApp3\obj\Debug\net9.0\RPKApp3.genruntimeconfig.cache
 C:\Users\user\Desktop\Уник\Рефакторинг программного кода\RefactoringSolution\RPKApp3\obj\Debug\net9.0\ref\RPKApp3.dll
+C:\Users\user\Desktop\Уник\Рефакторинг программного кода\RefactoringSolution\RPKApp3\obj\Debug\net9.0\RPKApp3.sourcelink.json
